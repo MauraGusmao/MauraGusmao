@@ -1,5 +1,6 @@
 # 👩‍💻 Maura Gusmao]
- <img align="center" height="150" src="https://imgur.com/P1FkWET" />
+  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+  
 **`Desenvolvedora FullStack.`**
 
 ![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MauraGusmao&theme=tokyonight)
