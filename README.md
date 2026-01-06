@@ -1,5 +1,5 @@
 # 👩‍💻 Maura Gusmao
-**`Desenvolvedora FullStack`**
+**`estudante de desenvolvimento full-stack.`**
 
 [![My Skills](https://skillicons.dev/icons?i=js,cpp,ts,php,react,tailwind)](https://skillicons.dev)
 
