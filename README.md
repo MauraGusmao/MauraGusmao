@@ -5,7 +5,9 @@
 
   <div align="center">
 
-   <blockquote class="imgur-embed-pub" lang="en" data-id="a/Qv3Mi8U"  ><a href="//imgur.com/a/Qv3Mi8U">foto</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+ <div align="center">
+  <img align="center" height="150" src="[Imgur](https://imgur.com/MmlWl00)" />
+</div>
 </div>
 
 
