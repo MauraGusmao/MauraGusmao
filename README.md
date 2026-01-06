@@ -4,7 +4,8 @@
 </div>
 
   <div align="center">
-  <img align="center" height="150" src="https://imgur.com/a/foto-Qv3Mi8U" />
+
+   <blockquote class="imgur-embed-pub" lang="en" data-id="a/Qv3Mi8U"  ><a href="//imgur.com/a/Qv3Mi8U">foto</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
 
