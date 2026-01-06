@@ -1,5 +1,5 @@
 # 👩‍💻 Maura Gusmao
-<img align="center" height="150" src="![Uploading image.png…]()
+<img align="center" height="150" src="[![Uploading image.png…](](https://pin.it/13KclN1c8))
 " />
 **`Desenvolvedora FullStack.`**
 
