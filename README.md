@@ -3,8 +3,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,cpp,ts,php,react,tailwind)](https://skillicons.dev)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF&color:FFF)]([https://www.linkedin.com/in/afraniocaires/](https://www.linkedin.com/in/maura-gusmão-160a931a7/))
+[![Instagram](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=00BFFF&color:FFF)](mailto:mauragusmaoneta123456@gmail.com)
