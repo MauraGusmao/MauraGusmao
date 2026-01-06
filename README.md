@@ -1,5 +1,7 @@
- <samp> 👩‍💻 Maura Gusmao </samp> 
- 
+#👩‍💻 Maura Gusmao 
+ <div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=Ola👋;Sou estudante de Análise e Desenvolvimento de Sistemas.;Seja bem-vindo(a);Be+welcome!" alt="Typing SVG"/>
+</div>
   
 **`Desenvolvedora FullStack.`**
 
