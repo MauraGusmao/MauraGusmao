@@ -6,7 +6,7 @@
   <div align="center">
 
  <div align="center">
-  <img align="center" height="150" src="https://imgur.com/a/gato.png" />
+  <img align="center" height="150" src="https://imgur.com/MmlWl00.png" />
 </div>
 </div>
 
