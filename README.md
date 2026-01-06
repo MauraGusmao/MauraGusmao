@@ -2,9 +2,12 @@
  <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=Ola,+Seja+bem-vindo!;Sou+estudante+de+Analise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG"/>
 </div>
+
   <div align="center">
-  <img align="center" height="150" src="[https://imgur.com/aXIQLp8.png](https://imgur.com/a/Qv3Mi8U)" />
+  <img align="center" height="150" src="https://imgur.com/a/Qv3Mi8U" />
 </div>
+
+
 **`Desenvolvedora FullStack.`**
 
 ![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MauraGusmao&theme=tokyonight)
