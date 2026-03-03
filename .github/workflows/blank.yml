@@ -22,3 +22,4 @@ jobs:
           plugin_topics_limit: 8
           plugin_topics_mode: icons
           plugin_calendar: yes
+          plugin_languages_limit: 4
